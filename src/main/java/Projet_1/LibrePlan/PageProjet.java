@@ -24,7 +24,10 @@ import org.slf4j.LoggerFactory;
  *
  */
 public class PageProjet {
+
 	static Logger log = LoggerFactory.getLogger(Connexion.class);
+
+	//static Logger log = LoggerFactory.getLogger(TestConnect.class);
 	
 	@FindBy(xpath = "//*[contains(text(), 'PROJET_TEST1')]") 
     WebElement données_nom_projet;	
@@ -287,7 +290,7 @@ public PageProjet creaTache234(WebDriver driver) throws InterruptedException {
 public PageProjet ordreChrono(WebDriver driver) throws InterruptedException {
 	
 	assertTrue(driver.findElement(By.xpath("//input[@value='5']/following::input[@value='10']/following::input[@value='20']/following::input[@value='8']")).isDisplayed());
-	log.info("Elements présents en ordre chrono");
+	//log.info("Elements présents en ordre chrono");
 
 	return PageFactory.initElements(driver, PageProjet.class);
 }
