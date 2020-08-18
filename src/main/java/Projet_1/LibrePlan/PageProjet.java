@@ -287,7 +287,7 @@ public PageProjet creaTache234(WebDriver driver) throws InterruptedException {
 public PageProjet ordreChrono(WebDriver driver) throws InterruptedException {
 	
 	assertTrue(driver.findElement(By.xpath("//input[@value='5']/following::input[@value='10']/following::input[@value='20']/following::input[@value='8']")).isDisplayed());
-	log.info("Elements présents en ordre chrono");
+	//log.info("Elements présents en ordre chrono");
 
 	return PageFactory.initElements(driver, PageProjet.class);
 }
