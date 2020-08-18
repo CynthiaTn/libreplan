@@ -1,0 +1,29 @@
+2020-08-18 16:52:18 [INFO ] TestConnect:47 - LIBREPLAN IS OPEN !
+2020-08-18 16:52:18 [INFO ] TestConnect:49 - USER CONNECT
+2020-08-18 16:53:15 [INFO ] TestConnect:50 - LIBREPLAN IS OPEN !
+2020-08-18 16:53:16 [INFO ] TestConnect:54 - USER CONNECT
+2020-08-18 16:53:16 [INFO ] TestConnect:38 - QUIT DRIVER
+2020-08-18 16:57:06 [INFO ] TestConnect:68 - QUIT DRIVER
+2020-08-18 16:57:42 [INFO ] TestConnect:69 - [[ChromeDriver: chrome on WINDOWS (2340177c9bf85a93517255af402de806)] -> xpath: //button[contains(@id, 'Q7-b')][contains(.,'Calendrier')]] is present !
+2020-08-18 16:57:43 [INFO ] TestConnect:69 - [[ChromeDriver: chrome on WINDOWS (2340177c9bf85a93517255af402de806)] -> xpath: //*[contains(@class,'z-window-embedded-header')][contains(.,'Types de critères Liste')]] is present !
+2020-08-18 16:57:43 [INFO ] TestConnect:104 - [Nom, Code, Type, Activé, Opérations]is present
+2020-08-18 16:57:43 [INFO ] TestConnect:69 - [[ChromeDriver: chrome on WINDOWS (2340177c9bf85a93517255af402de806)] -> xpath: //*[contains(@class,'z-caption-l')][contains(.,'Créer Type de critère')]] is present !
+2020-08-18 16:57:43 [INFO ] TestConnect:69 - [[ChromeDriver: chrome on WINDOWS (2340177c9bf85a93517255af402de806)] -> xpath: //td[@class='z-button-cm'][contains(.,'Annuler')]] is present !
+2020-08-18 16:57:43 [INFO ] TestConnect:69 - [[ChromeDriver: chrome on WINDOWS (2340177c9bf85a93517255af402de806)] -> xpath: //td[@class='z-button-cm'][contains(text(),'Enregistrer')]] is present !
+2020-08-18 16:57:43 [INFO ] TestConnect:69 - [[ChromeDriver: chrome on WINDOWS (2340177c9bf85a93517255af402de806)] -> xpath: //td[@class='z-button-cm'][contains(text(),'Sauver et continuer')]] is present !
+2020-08-18 16:57:43 [INFO ] TestConnect:69 - [[ChromeDriver: chrome on WINDOWS (2340177c9bf85a93517255af402de806)] -> xpath: //*[contains(@class,'z-tab-text')][contains(.,'Modifier')]] is present !
+2020-08-18 16:57:49 [ERROR] TestConnect:127 - Critère - Test bouton [Annuler] is unavailable
+2020-08-18 16:57:50 [INFO ] TestConnect:137 - Critère - Test bouton [Enregistrer] is present
+2020-08-18 16:57:52 [INFO ] TestConnect:69 - [[ChromeDriver: chrome on WINDOWS (2340177c9bf85a93517255af402de806)] -> xpath: //span[contains(.,'Supprimer Type de critère "Critère - Test bouton [Sauver et continuer] 2". Êtes-vous sûr ?')]] is present !
+2020-08-18 16:57:52 [INFO ] TestConnect:69 - [[ChromeDriver: chrome on WINDOWS (2340177c9bf85a93517255af402de806)] -> xpath: //td[@class='z-button-cm'][contains(.,'OK')]] is present !
+2020-08-18 16:57:52 [INFO ] TestConnect:69 - [[ChromeDriver: chrome on WINDOWS (2340177c9bf85a93517255af402de806)] -> xpath: //span[contains(@class,'z-messagebox-btn')]/table/tbody/tr/td[@class='z-button-cm'][contains(.,'Annuler')]] is present !
+2020-08-18 16:57:52 [INFO ] TestConnect:69 - [[ChromeDriver: chrome on WINDOWS (2340177c9bf85a93517255af402de806)] -> xpath: //span[contains(.,'Supprimer Type de critère "Critère - Test bouton [Sauver et continuer] 2". Êtes-vous sûr ?')]] is present !
+2020-08-18 16:57:53 [INFO ] TestConnect:68 - QUIT DRIVER
+2020-08-18 16:58:07 [INFO ] TestConnect:57 - LIBREPLAN IS OPEN !
+2020-08-18 16:58:08 [INFO ] TestConnect:61 - CONNECTED : [CALENDAR TAB] IS DISPLAYED
+2020-08-18 16:58:10 [INFO ] TestConnect:66 - [LIST PARTICIPANTS PAGE] IS DISPLAYED
+2020-08-18 16:58:12 [INFO ] TestConnect:72 - [CREATE PARTICIPANT PAGE] IS DISPLAYED
+2020-08-18 16:58:23 [INFO ] TestConnect:45 - QUIT DRIVER
+2020-08-18 17:12:38 [INFO ] TestConnect:50 - LIBREPLAN IS OPEN !
+2020-08-18 17:12:39 [INFO ] TestConnect:54 - USER CONNECT
+2020-08-18 17:12:40 [INFO ] TestConnect:38 - QUIT DRIVER
