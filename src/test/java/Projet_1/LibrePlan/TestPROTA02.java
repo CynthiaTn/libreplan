@@ -16,7 +16,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class TestPROTA02 {
-	static Logger log = LoggerFactory.getLogger(TestConnect.class);
+	static Logger log = LoggerFactory.getLogger(Connexion.class);
 	WebDriver driver;
 	WebDriverWait wait;
 

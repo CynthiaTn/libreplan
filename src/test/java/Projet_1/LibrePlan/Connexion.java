@@ -18,8 +18,8 @@ import org.slf4j.LoggerFactory;
  * @author formation
  *
  */
-public class TestConnect {
-	static Logger log = LoggerFactory.getLogger(TestConnect.class);
+public class Connexion {
+	static Logger log = LoggerFactory.getLogger(Connexion.class);
 	WebDriver driver;
 	WebDriverWait wait;
 

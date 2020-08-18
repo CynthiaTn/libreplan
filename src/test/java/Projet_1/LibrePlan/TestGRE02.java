@@ -20,7 +20,7 @@ import org.slf4j.LoggerFactory;
  *
  */
 public class TestGRE02 {
-	static Logger log = LoggerFactory.getLogger(TestConnect.class);
+	static Logger log = LoggerFactory.getLogger(Connexion.class);
 	WebDriver driver;
 	WebDriverWait wait;
 
