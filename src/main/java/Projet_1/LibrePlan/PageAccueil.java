@@ -100,7 +100,7 @@ public class PageAccueil {
 	 */
 	public PageAccueil verifChamps(WebDriver driver) throws InterruptedException {
 	
-		ToolBox.isElementPresent(nom_projet, log);
+		//ToolBox.isElementPresent(nom_projet, log);
 		assertTrue(nom_projet.isDisplayed());
 		assertTrue(gen_code_projet.isDisplayed());
 		assertTrue(code_projet.isDisplayed());
