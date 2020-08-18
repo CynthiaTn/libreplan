@@ -24,7 +24,7 @@ import org.slf4j.LoggerFactory;
  *
  */
 public class PageProjet {
-	static Logger log = LoggerFactory.getLogger(TestConnect.class);
+	//static Logger log = LoggerFactory.getLogger(TestConnect.class);
 	
 	@FindBy(xpath = "//*[contains(text(), 'PROJET_TEST1')]") 
     WebElement données_nom_projet;	
